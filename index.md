@@ -23,6 +23,6 @@
 
 ```
 # code block
-print 'hi'
+print ' hi'
 print ' indent 4 spaces'
 ```
