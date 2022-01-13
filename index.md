@@ -18,10 +18,10 @@
 
 ---
 
-'the box' think
+`the box` think
 
-'''
+```
 # code block
 print 'hi'
 print ' indent 4 spaces'
-'''
+```
