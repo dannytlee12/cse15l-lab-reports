@@ -2,7 +2,7 @@
 
 ## Installing VScode
 ![Image](l1sc1.png)
-* I already had VSCode installed from a previous code. [This link](https://code.visualstudio.com/docs/setup/mac) provides instruction for instalatino on mac.
+* I already had VSCode installed from a previous code. [This link](https://code.visualstudio.com/docs/setup/mac) provides instruction for installation on mac.
 
 
 ## Remotely Connecting
@@ -21,7 +21,7 @@
 
 ## Setting an SSH Key
 ![Image](l1sc6.png)
-* First I made a key on my local computer using `ssh-keygen` and left the password empty.  
+* First I made a key on my local computer using `ssh-keygen` and left the password empty, allowing me to login without having to enter my password.  
 
 ![Image](l1sc7.png)
 * Then I copied the key into a directory in my ieng6 account using `scp`. 
