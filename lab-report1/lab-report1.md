@@ -28,5 +28,5 @@
 
 ## Optimizing Remote Running
 ![Image](l1sc8.png)
-* Here I used a single command to copy, compile, and run a file into my ieng6 account. Note that I did not have to input my password because I made the ssh key in the previous step.
+* Here I used a single command to copy, compile, and run a file into my ieng6 account. Note that I did not have to input my password because I made the ssh key in the previous step, and after compiling and running WhereAmI.java in my ieng6 account, I was automatically logged out.
 
