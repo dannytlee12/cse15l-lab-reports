@@ -1,7 +1,7 @@
 # Lab Report 1
 
 ## Installing VScode
-![Image](l1sc1.PNG)
+![Image](l1sc1.png)
 
 
 ## Remotely Connecting
