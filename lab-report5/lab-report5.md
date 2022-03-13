@@ -4,3 +4,17 @@
 * Next, we used diff to compare the two results files to find which test files had different results. 
 
 ### Test 1
+
+![Image](lab5p1)
+
+
+![Image](l5test1)
+
+
+### Test 2
+
+![Image](lab5p2)
+
+
+![Image](l5test2)
+
