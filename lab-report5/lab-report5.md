@@ -8,7 +8,7 @@
 ![Image](l5test2.png)
 * The first test difference that we looked at was on line 270 of our results textfile. Joe's output was `[]` and ours was `[/bar\* "ti\*tle"]`
 
-![Image](lab5p1.png)
+![Image](lab5cm1.png)
 * This test was 22.md in the test-files directory that we downloaded. To find the correct output, we went on the CommonMark demo site. We found that test22.md was supposed to produce the link, so our implementation was correct. 
 
 
@@ -19,7 +19,7 @@
 ![Image](l5test1.png)
 * The second difference we looked at happened on line 230 of the results textfile. Joe's output was `[baz]` and ours was `[]`. 
 
-![Image](lab5p2.png)
+![Image](lab5cm2.png)
 * This test was 22.md in the test-files directory that we downloaded. Again, to find the correct output, we went to the CommonMark demo site and found that no link was produced by this test, so our implementation was correct again.
 
 
