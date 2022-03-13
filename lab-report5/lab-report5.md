@@ -5,16 +5,16 @@
 
 ### Test 1
 
-![Image](lab5p1)
+![Image](lab5p1.png)
 
 
-![Image](l5test1)
+![Image](l5test1.png)
 
 
 ### Test 2
 
-![Image](lab5p2)
+![Image](lab5p2.png)
 
 
-![Image](l5test2)
+![Image](l5test2.png)
 
