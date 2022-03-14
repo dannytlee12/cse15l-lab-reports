@@ -23,5 +23,6 @@
 ![Image](lab5cm1.png)
 * This test was 22.md in the test-files directory that we downloaded. Again, to find the correct output, we went to the CommonMark demo site and found that a link was produced by this test, so our implementation was correct again.
 
-* 
+![Image](lab5joe.png)
+* This test likely fails for Joe's code because of these lines. It is meant to look for spaces or new line characters after the link. It does not consider what would happen if the link contained a space in it. Since the link has a space in it, currentIndex moves forward without adding the link to the toReturn variable. 
 
