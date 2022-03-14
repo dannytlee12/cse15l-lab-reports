@@ -10,6 +10,7 @@
 
 ![Image](lab5cm2.png)
 * This test was 22.md in the test-files directory that we downloaded. To find the correct output, we went on the CommonMark demo site. We found that test22.md was not supposed to produce a link, so our implementation was correct. 
+* This test can likeley be fixed by checking if there are unnecessary characters between the closing bracket and the openning parenthesis.
 
 
 
